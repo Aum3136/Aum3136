@@ -1,5 +1,5 @@
 
-# Hi, I'm Aum Patel 👋
+# Hi, I'm Aum Pandya👋
 
 **IT Engineering Student · CSPIT, CHARUSAT · Gujarat, India**
 
