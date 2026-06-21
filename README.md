@@ -3,7 +3,7 @@
 
 **IT Engineering Student · CSPIT, CHARUSAT · Gujarat, India**
 
-![](https://img.shields.io/badge/2nd_Year_IT-CSPIT-teal?style=flat-square)
+![](https://img.shields.io/badge/3rd_Year_IT-CSPIT-teal?style=flat-square)
 ![](https://img.shields.io/badge/Full_Stack-React_+_FastAPI-7F77DD?style=flat-square)
 ![](https://img.shields.io/badge/AI_/_RAG-Gemini_+_LangChain-378ADD?style=flat-square)
 
